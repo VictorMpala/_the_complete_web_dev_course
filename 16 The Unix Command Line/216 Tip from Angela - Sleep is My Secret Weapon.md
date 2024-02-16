@@ -1,0 +1,2 @@
+- alarms to remind you to do specific things 
+- refreshing
